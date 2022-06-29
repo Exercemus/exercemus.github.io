@@ -1,1 +1,3 @@
-# exercemus.github.io
+# exercemus
+
+More info coming soon
