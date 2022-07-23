@@ -1,3 +1,5 @@
 # exercemus
 
-More info coming soon
+## more info coming soon
+
+for now, see [our latest progress](https://exercem.us)
